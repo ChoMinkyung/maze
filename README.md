@@ -1,2 +1,2 @@
-# maze
+# Secret-of-the-Maze
  
