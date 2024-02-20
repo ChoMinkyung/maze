@@ -26,6 +26,7 @@ public class ChangeScene : MonoBehaviour
 
     public void GameExit()
     {
+        Debug.Log("exit");
         Application.Quit();
     }
 
